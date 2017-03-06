@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-theme-default",
+  "name": "gitbook-plugin-theme-ss",
   "description": "Default theme for GitBook",
   "main": "./index.js",
   "version": "1.0.6",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-default.git"
+    "url": "https://github.com/Sti3bas/theme-ss.git"
   },
   "author": "FriendCode Inc. <contact@gitbook.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GitbookIO/theme-default/issues"
+    "url": "https://github.com/Sti3bas/theme-ss/issues"
   },
   "contributors": [
     {
