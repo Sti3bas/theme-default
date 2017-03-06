@@ -30,7 +30,17 @@
 <div class="book">
     <div class="book-summary">
         {% block book_sidebar %}
-            {% block search_input %}{% endblock %}
+            <div class="summary-heading">
+                <div class="column">
+                    <a href="{{ config.pluginsConfig['theme-ss'].backBtnUrl }}" class="back-btn">
+                        <i class="fa fa-angle-left" aria-hidden="true"></i>
+                    </a>
+                </div>
+                <div class="column">
+                    {% block search_input %}{% endblock %}
+                </div>
+            </div>
+            
             {% block book_summary %}
                 <nav role="navigation">
                 {% include "website/summary.html" %}
