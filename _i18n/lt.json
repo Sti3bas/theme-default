@@ -1,0 +1,22 @@
+{
+    "LANGS_CHOOSE": "Pasirinkite kalbą",
+    "GLOSSARY": "Žodynas ",
+    "GLOSSARY_INDEX": "Index",
+    "GLOSSARY_OPEN": "Žodynas",
+    "GITBOOK_LINK": "",
+    "SUMMARY": "Turinys",
+    "SUMMARY_INTRODUCTION": "Įvadas",
+    "SUMMARY_TOGGLE": "Turinys",
+    "SEARCH_TOGGLE": "Paieška",
+    "SEARCH_PLACEHOLDER": "Įveskite paieškos frazę",
+    "SEARCH_RESULTS_TITLE": "Rasti <span class='search-results-count'></span> rezultatai atitinkantys frazę <span class='search-query'></span>",
+    "SEARCH_NO_RESULTS_TITLE": "Pagal frazę <span class='search-query'></span> rezultatų nerasta",
+    "FONTSETTINGS_TOGGLE": "Šrifto nustatymai",
+    "SHARE_TOGGLE": "Dalintis",
+    "SHARE_ON": "Dalintis {{platform}}",
+    "FONTSETTINGS_WHITE": "Balta",
+    "FONTSETTINGS_SEPIA": "Sepija",
+    "FONTSETTINGS_NIGHT": "Naktis",
+    "FONTSETTINGS_SANS": "Sans",
+    "FONTSETTINGS_SERIF": "Serif"
+}
